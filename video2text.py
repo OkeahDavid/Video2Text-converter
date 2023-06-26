@@ -33,7 +33,7 @@ def convert_video_to_text(video_path, api_key=None):
     return text
 
 # Provide the path to the video file in your download folder
-video_file_path = r"C:\Users\Dave\Downloads\went to a costume party.mp4"  # Replace with your video file path
+video_file_path = path/to/file  # Replace with your video file path
 
 # Optionally provide API key if available
 api_key = None
